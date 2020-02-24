@@ -1,11 +1,11 @@
 import re
 from urllib.parse import unquote
 
-def decodingfromUTF8():
-    with open('./wikispeedia_paths-and-graph/links.tsv') as fp:
+def decodingfromUTF8(filepath, firstrow, name):
+    with open(filepath) as fp:
         line = fp.readline()
         i = 1
-        while i <= 12:
+        while i <= firstrow-1:
             line = fp.readline()
             i = i+1
 
@@ -15,10 +15,10 @@ def decodingfromUTF8():
             for split in splitted:
                 d = unquote(split)
                 splits.append(d)
-            f = open("decoded.tsv", "a")
+            f = open(name, "a")
             f.write(str(splits[0]) + "\t" + str(splits[1]))
             f.close()
             line = fp.readline()
 
 
-decodingfromUTF8()
+#decodingfromUTF8('./wikispeedia_paths-and-graph/categories.tsv', 14, 'categoriesDecoded.tsv')
