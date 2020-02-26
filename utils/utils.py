@@ -91,25 +91,26 @@ def create_X(G,x,y, categories_dict, pr, hits):
     jd = JD(G,x,y)
     aa = AdamicAdarIndex(G,x,y)
 
-    cats_x = set()
-    cats_y = set()
+    cats_x = 0
+    cats_y = 0
+    no_comm = 0
     try:
         cats_x = categories_dict[x]
         cats_y = categories_dict[y]
+        no_comm = len(cats_x.intersection(cats_y))
     except:
         pass
-    no_comm = len(cats_x.intersection(cats_y))
-
-    pr_x = set()
-    pr_y = set()
+    
+    pr_x = 0
+    pr_y = 0
     try:
         pr_x = pr[x]
         pr_y = pr[y]
     except:
         pass
 
-    hits_x = set()
-    hits_y = set()
+    hits_x = 0
+    hits_y = 0
 
     try:
         hits_x = hits[0][x]
