@@ -21,12 +21,11 @@ def decodingfromUTF8(filepath, firstrow, name):
             f.close()
             line = fp.readline()
 
-with open('../data/getCategoryFromLinkDict.pkl', 'rb') as f:
+with open('../data/Y_data.pkl', 'rb') as f:
     data = pickle.load(f)
-    print(data)
+    print(len(data))
 
-with open('../data/numberToCategoryNameList.pkl', 'rb') as f:
+with open('../data/X_data.pkl', 'rb') as f:
     data = pickle.load(f)
-    print(data)
     print(len(data))
 #decodingfromUTF8('./wikispeedia_paths-and-graph/categories.tsv', 14, 'categoriesDecoded.tsv')
