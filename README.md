@@ -38,4 +38,14 @@ This folder contains all different data that we have created within our project.
 
 ### [graph_full.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/graph_full.pdf)
 
-### [accuracyGraph.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/accuracyGraph.pdf)
+### [accuracyGraph.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/accuracyGraph.png)
+
+### [graph_full.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/graph_full.pdf)
+
+### [graph_sample.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/graph_sample.pdf)
+
+### [openord.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/openord.png)
+
+### [openord2.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/openord2.png)
+
+## [\src](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/)
