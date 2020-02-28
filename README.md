@@ -1,5 +1,5 @@
-# Network-Analysis-Project
-## [data](https://github.com/kettroni/Network-Analysis-Project/tree/master/data)
+# Folders and files
+## [/data](https://github.com/kettroni/Network-Analysis-Project/tree/master/data)
 This folder contains all different data that we have created within our project. This includes Python objects (.pkl files) and different .tsv files.
 ### [PROrig.pkl](https://github.com/kettroni/Network-Analysis-Project/blob/master/data/PROrig.pkl)
 
