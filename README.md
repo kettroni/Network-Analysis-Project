@@ -49,3 +49,25 @@ This folder contains all different data that we have created within our project.
 ### [openord2.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/openord2.png)
 
 ## [\src](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/)
+
+### [createClassifiersAndAnalysis.ipynb](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/createClassifiersAndAnalysis.ipynb)
+
+### [createXY.ipynb](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/createXY.ipynb)
+
+### [decode.py](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/decode.py)
+
+### [generateSamplesAndReducedNetwork.ipynb](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/generateSamplesAndReducedNetwork.ipynb)
+
+## [/src/utils](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/utils/)
+
+### [utils.py](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/utils/utils.py)
+
+### [__init__.py](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/utils/__init__.py)
+
+## [/wikispeedia_paths-and-graph](https://github.com/kettroni/Network-Analysis-Project/tree/master/wikispeedia_paths-and-graph/)
+
+### [articles.tsv](https://github.com/kettroni/Network-Analysis-Project/tree/master/wikispeedia_paths-and-graph/articles.tsv)
+
+### [categories.tsv](https://github.com/kettroni/Network-Analysis-Project/tree/master/wikispeedia_paths-and-graph/categories.tsv)
+
+### [links.tsv](https://github.com/kettroni/Network-Analysis-Project/tree/master/wikispeedia_paths-and-graph/links.tsv)
