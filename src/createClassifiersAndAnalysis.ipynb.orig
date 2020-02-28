@@ -65,8 +65,7 @@
     "    clf.fit(X_train, y_train)\n",
     "    y_pred = clf.predict(X_test)\n",
     "    acc = accuracy_score(y_test, y_pred)\n",
-    "    return [clf,acc,\"Logistic Regression\"]\n",
-    ""
+    "    return [clf,acc,\"Logistic Regression\"]\n"
    ]
   },
   {
@@ -106,6 +105,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "<<<<<<< LOCAL CELL DELETED >>>>>>>\n",
     "# All of the classifiers appended in a list\n",
     "classifiers = []\n",
     "\n",
