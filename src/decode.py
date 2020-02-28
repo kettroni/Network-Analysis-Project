@@ -20,12 +20,3 @@ def decodingfromUTF8(filepath, firstrow, name):
             f.write(str(splits[0]) + "\t" + str(splits[1]))
             f.close()
             line = fp.readline()
-
-with open('../data/Y_data.pkl', 'rb') as f:
-    data = pickle.load(f)
-    print(len(data))
-
-with open('../data/X_data.pkl', 'rb') as f:
-    data = pickle.load(f)
-    print(len(data))
-#decodingfromUTF8('./wikispeedia_paths-and-graph/categories.tsv', 14, 'categoriesDecoded.tsv')
