@@ -1,4 +1,5 @@
 # Folders and files
+Brief explanation for each folder and file in this project.
 # /data
 This folder contains all different data that we have created within our project. This includes Python objects (.pkl files) and different .tsv files.
 
