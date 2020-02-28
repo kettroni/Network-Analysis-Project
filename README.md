@@ -26,3 +26,16 @@ This folder contains all different data that we have created within our project.
 ### [reduced_pr.pkl](https://github.com/kettroni/Network-Analysis-Project/blob/master/data/reduced_pr.pkl)
 
 ### [removedEdgesList.pkl](https://github.com/kettroni/Network-Analysis-Project/blob/master/data/removed_edgesList.pkl)
+
+
+## [/pictures](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures)
+
+### [ExampleVector.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/ExampleVector.png)
+
+### [RFCFeatureImportances.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/RFCFeatureImportances.png)
+
+### [accuracyGraph.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/accuracyGraph.pdf)
+
+### [graph_full.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/graph_full.pdf)
+
+### [accuracyGraph.pdf](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/accuracyGraph.pdf)
