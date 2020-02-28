@@ -1,5 +1,5 @@
 # Folders and files
-## [/data](https://github.com/kettroni/Network-Analysis-Project/tree/master/data)
+# /data
 This folder contains all different data that we have created within our project. This includes Python objects (.pkl files) and different .tsv files.
 
 ### [PROrig.pkl](https://github.com/kettroni/Network-Analysis-Project/blob/master/data/PROrig.pkl)
@@ -41,7 +41,7 @@ Contains the PageRank Python dictionary for the reduced network.
 ### [removedEdgesList.pkl](https://github.com/kettroni/Network-Analysis-Project/blob/master/data/removed_edgesList.pkl)
 A Python list that contains all of the edges that are in the original network and not in the reduced network.
 
-## [/pictures](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures)
+# /pictures
 This folder contains all created pictures and graphs.
 
 ### [ExampleVector.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/ExampleVector.png)
@@ -65,7 +65,7 @@ A representation of the original network clustered with Gephis algorithm OpenOrd
 ### [openord2.png](https://github.com/kettroni/Network-Analysis-Project/tree/master/pictures/openord2.png)
 A representation of the original network clustered with Gephis algorithm OpenOrd2.
 
-## [\src](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/)
+# \src
 Contains all source code for the project.
 
 ### [createClassifiersAndAnalysis.ipynb](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/createClassifiersAndAnalysis.ipynb)
@@ -80,7 +80,7 @@ Decodes the original UTF-8 encoded .tsv files into decoded ones.
 ### [generateSamplesAndReducedNetwork.ipynb](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/generateSamplesAndReducedNetwork.ipynb)
 Jupyter notebook that generates the sample picture of the original network and also creates the reduced network.
 
-## [/src/utils](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/utils/)
+# /src/utils
 Folder that contains utils.py, which contains functions for creating X feature vectors.
 
 ### [utils.py](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/utils/utils.py)
@@ -88,8 +88,8 @@ Folder that contains utils.py, which contains functions for creating X feature v
 ### [__init__.py](https://github.com/kettroni/Network-Analysis-Project/tree/master/src/utils/__init__.py)
 Needed for importing utils.py module.
 
-## [/wikispeedia_paths-and-graph](https://github.com/kettroni/Network-Analysis-Project/tree/master/wikispeedia_paths-and-graph/)
-Original data which is untouched.
+# /wikispeedia_paths-and-graph
+Original downloaded data.
 
 ### [articles.tsv](https://github.com/kettroni/Network-Analysis-Project/tree/master/wikispeedia_paths-and-graph/articles.tsv)
 Contains all articles.
